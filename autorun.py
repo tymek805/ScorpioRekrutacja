@@ -1,3 +1,3 @@
 import main
 
-main.resource_measurements()
+main.take_measurements()
